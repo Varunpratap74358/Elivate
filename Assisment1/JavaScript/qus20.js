@@ -5,4 +5,4 @@ const fetchData =async()=>{
     const data = await res.json()
     return data;
 }
-console.log(fetchData())
+console.log(fetchData())                                    
